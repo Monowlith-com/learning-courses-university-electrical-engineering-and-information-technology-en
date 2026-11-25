@@ -17,7 +17,7 @@ study_role: "Sources"
 categories: ["Education/Learning Courses", "University/Electrical Engineering"]
 keywords: ["Sources", "Electrical Engineering"]
 website: "https://monowlith.com"
-github: "https://github.com/monowlith-com/learning-courses-university-electrical-engineering-en"
+github: "https://github.com/monowlith-com/learning-courses-university-electrical-engineering-and-information-technology-en"
 license: "CC BY-NC-SA 4.0 International"
 ---
 

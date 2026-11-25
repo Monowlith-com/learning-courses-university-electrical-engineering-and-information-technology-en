@@ -17,7 +17,7 @@ study_role: "Study Path"
 categories: ["Education/Learning Courses", "University/Electrical Engineering"]
 keywords: ["Study Path", "Electrical Engineering"]
 website: "https://monowlith.com"
-github: "https://github.com/monowlith-com/learning-courses-university-electrical-engineering-en"
+github: "https://github.com/monowlith-com/learning-courses-university-electrical-engineering-and-information-technology-en"
 license: "CC BY-NC-SA 4.0 International"
 ---
 

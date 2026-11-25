@@ -11,7 +11,7 @@ Structured learning course in English.
 ![modules](https://img.shields.io/badge/modules-31-blue?style=flat-square)
 ![lessons](https://img.shields.io/badge/lessons-171-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-university-electrical-engineering-en?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-university-electrical-engineering-and-information-technology-en?style=flat-square)
 
 **[Open course](https://monowlith-com.github.io/learning-courses/?course=university_electrical-engineering&module=M1&lesson=L1&syslang=en&doclang=en&theme=light)**
 
