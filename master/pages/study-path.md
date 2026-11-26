@@ -2,9 +2,9 @@
 document_id: "university_electrical_engineering_en:study-path"
 series_id: "university_electrical_engineering_en:M1-L1"
 series_part: 172
-document_version: "0.1.0"
+document_version: "0.1.1"
 created: "2026-11-19"
-updated: "2026-11-19"
+updated: "2026-11-25"
 title: "Study Path"
 author: "Stephan Kühn"
 document_type: "Supporting material"
@@ -363,7 +363,7 @@ All 31 modules and 171 lessons are available in German and English. The independ
 
 ## Curricular Evidence {#S4}
 
-- [KIT – B.Sc. Elektrotechnik und Informationstechnik, Modulhandbuch WiSe 2026/27](https://s.kit.edu/mhb-etit-bsc23), SPO 2023, §§ 12.4 und 13.41, Lineare Elektrische Netze [M-ETIT-106417].
+- [KIT – B.Sc. Electrical Engineering and Information Technology, module handbook summer semester 2026 (06 March 2026)](https://s.kit.edu/mhb-etit-bsc23) · SPO 2023, sections 11.4 and 12.41, Lineare Elektrische Netze (M-ETIT-106417); curriculum evidence · Last accessed: 2026-11-25
 - [TUM – B.Sc. Elektrotechnik und Informationstechnik, Modulhandbuch 23.07.2025](https://www.cit.tum.de/fileadmin/w00byx/cit/Studium/Studiengaenge/Bachelor_Elektrotechnik_Informationstechnik/Modulhandbuch_Studiengang_BSEI_2025-07-23.pdf), Schaltungstheorie [EI00130], S. 18–20.
 
 The compulsory Bachelor’s core M1–M8 draws on the following KIT module groups. The detailed mapping to KIT and TUM is documented in the source curriculum.
@@ -381,26 +381,26 @@ The compulsory Bachelor’s core M1–M8 draws on the following KIT module group
 
 The references underpin the academic orientation of the compulsory Bachelor’s core. The sources page also records teaching references for individual lessons. The specific division and sequence of lessons are editorial choices.
 
-The elective area includes M9 (KIT `M-ETIT-107222`, Electrical Drives and Power Electronics), M10 (KIT `M-ETIT-107224`, Electrical Power Networks), M11 (KIT `M-ETIT-106519`, Energy Generation and Storage), M12 (KIT `M-ETIT-106669`, Modelling and Simulation of Complex Systems), M13 (KIT `M-ETIT-106373`, Automation, Control and Robotics), M14 (KIT `M-ETIT-107171`, Microelectronic Circuits and Systems), M15 (KIT `M-ETIT-105356`, Embedded Systems), M16 (KIT `M-ETIT-106365`, Sensor Systems and Measurement Signal Processing), M17 (KIT `M-ETIT-106364`, Communication Systems), M18 (KIT `M-ETIT-106962`, Antennas), M19 (KIT `M-ETIT-107173`, Fundamentals of Photonics), M20 (KIT `M-ETIT-106679`, Biomedical Measurement Technology). The lesson structure is editorial.
+The elective area includes M9 (KIT `M-ETIT-107222`, Electrical Drives and Power Electronics), M10 (KIT `M-ETIT-107224`, Electrical Power Networks), M11 (KIT `M-ETIT-106519`, Energy Generation and Storage), M12 (KIT `M-ETIT-106669`, Modelling and Simulation of Complex Systems), M13 (KIT `M-ETIT-106373`, Automation, Control and Robotics), M14 (KIT `M-ETIT-107171`, Microelectronic Circuits and Systems), M15 (KIT `M-ETIT-105356`, Embedded Systems; seminar context), M16 (KIT `M-ETIT-106365`, Sensor Systems and Measurement Signal Processing), M17 (KIT `M-ETIT-106364`, Communication Systems), M18 (KIT `M-ETIT-106962`, Antennas), M19 (KIT `M-ETIT-107173`, Fundamentals of Photonics), M20 (KIT `M-ETIT-106679`, Biomedical Measurement Technology). The lesson structure is editorial.
 
-M21 draws on ETH Zürich, Control Systems (`227-0103-00L`, Foundation Core; Curriculum G1/G2).
+M21 draws on ETH Zurich, Control Systems (`227-0103-00L`, Foundation Core; internal Monowlith curriculum groups G1/G2).
 
-M22 draws on ETH Zürich, Electric Energy Engineering (Curriculum G3).
+M22 draws on ETH Zurich, Electric Energy Engineering (internal Monowlith curriculum group G3).
 
-M23 draws on ETH Zürich, Electronics and Photonics (Curriculum G4).
+M23 draws on ETH Zurich, Electronics and Photonics (internal Monowlith curriculum group G4).
 
-M24 draws on ETH Zürich, Computers and Networks (Curriculum G5).
+M24 draws on ETH Zurich, Computers and Networks (internal Monowlith curriculum group G5).
 
-M25 draws on ETH Zürich, Communication (Curriculum G6). All five Bachelor–Master bridges are complete.
+M25 draws on ETH Zurich, Communication (internal Monowlith curriculum group G6). All five Bachelor–Master bridges are complete.
 
-M26 draws on ETH Zürich, Systems and Control (Curriculum G2), supplemented by MIT Underactuated Robotics, Stanford EE363 and Rawlings, Mayne and Diehl.
+M26 draws on ETH Zurich, Systems and Control (internal Monowlith curriculum group G2), supplemented by MIT Underactuated Robotics, Stanford EE363 and Rawlings, Mayne and Diehl.
 
-M27 draws on ETH Zürich, Electric Energy Engineering (Curriculum G3), supplemented by MATPOWER, MIT OpenCourseWare and Imperix TN145.
+M27 draws on ETH Zurich, Electric Energy Engineering (internal Monowlith curriculum group G3), supplemented by MATPOWER, MIT OpenCourseWare and Imperix TN145.
 
-M28 draws on ETH Zürich, Electronics and Photonics (Curriculum G4), supplemented by Analog Devices and MIT OpenCourseWare.
+M28 draws on ETH Zurich, Electronics and Photonics (internal Monowlith curriculum group G4), supplemented by Analog Devices and MIT OpenCourseWare.
 
-M29 draws on ETH Zürich, Computers and Networks (Curriculum G5), supplemented by MIT OpenCourseWare, Linux DMA-Dokumentation and Arm.
+M29 draws on ETH Zurich, Computers and Networks (internal Monowlith curriculum group G5), supplemented by MIT OpenCourseWare, Linux DMA documentation and Arm.
 
-M30 draws on ETH Zürich, Communication (Curriculum G6), supplemented by MIT OpenCourseWare, Universität Stuttgart and ITU-T G Supplement 39.
+M30 draws on ETH Zurich, Communication (internal Monowlith curriculum group G6), supplemented by MIT OpenCourseWare, Universität Stuttgart and ITU-T G Supplement 39.
 
-M31 draws on ETH Zürich, Projects and Master’s Thesis (Curriculum G8), and TUM (G9), supplemented by The Turing Way and NIST/SEMATECH.
+M31 draws on ETH Zurich, Projects and Master’s Thesis (internal Monowlith curriculum group G8), and TUM (internal Monowlith curriculum group G9), supplemented by The Turing Way and NIST/SEMATECH.
